@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yyfwptz/AQBP_V3/app/libs/BaiduNaviSDK_3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2ad4d780899a28773301c9c60a2895cfe6f9b6c">
+        <dex dex="/Users/yyfwptz/AQBP_V3/app/build/intermediates/pre-dexed/debug/BaiduNaviSDK_3.3.0_49a3e64b390bc9bd3ba79f271efbc1e76f03cc28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yyfwptz/AQBP_V3/app/libs/baidumapapi_radar_v4_2_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a88ae5b0f59843a837e1fd45d4270affc8ca7373">
+        <dex dex="/Users/yyfwptz/AQBP_V3/app/build/intermediates/pre-dexed/debug/baidumapapi_radar_v4_2_1_eaf53d72f963309b149a8fb63eda902bc4e98b78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yyfwptz/AQBP_V3/app/libs/httpmime-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="/Users/yyfwptz/AQBP_V3/app/build/intermediates/pre-dexed/debug/httpmime-4.1.2_e31ed6b383a8b08fa2b4a116823ba810c22a79eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yyfwptz/AQBP_V3/app/libs/baidumapapi_map_v4_2_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="afab7b92220f1f16dc732fd9f037079662771ee2">
+        <dex dex="/Users/yyfwptz/AQBP_V3/app/build/intermediates/pre-dexed/debug/baidumapapi_map_v4_2_1_e5064190cc164870d804d9573e075467c67174ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yyfwptz/AQBP_V3/app/libs/baidumapapi_search_v4_2_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26cefef48db6e39aba392ed93b54eab184e3aaa9">
+        <dex dex="/Users/yyfwptz/AQBP_V3/app/build/intermediates/pre-dexed/debug/baidumapapi_search_v4_2_1_a878cfe0a0ea7a0d1e070128d54ddd4a1f84bfad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yyfwptz/AQBP_V3/app/libs/baidumapapi_base_v4_2_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34606314aa56b20b5dab09fdd6fd19fa8d28c5d6">
+        <dex dex="/Users/yyfwptz/AQBP_V3/app/build/intermediates/pre-dexed/debug/baidumapapi_base_v4_2_1_c3462a10f897f6e37bab1cd929689da7467b393a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yyfwptz/AQBP_V3/app/libs/locSDK_6.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="/Users/yyfwptz/AQBP_V3/app/build/intermediates/pre-dexed/debug/locSDK_6.13_aad942f1c000963fb18960a3911a12f14678ab3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yyfwptz/AQBP_V3/app/libs/baidumapapi_cloud_v4_2_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ad2eb3ddfe9d5e245e8f571b4559a10c11803835">
+        <dex dex="/Users/yyfwptz/AQBP_V3/app/build/intermediates/pre-dexed/debug/baidumapapi_cloud_v4_2_1_c00209ce37dee066da003fd33466afbae8dbc984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yyfwptz/AQBP_V3/app/libs/baidumapapi_util_v4_2_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="507a595b3260fbd0bbe860b69844784e7ffc0aa6">
+        <dex dex="/Users/yyfwptz/AQBP_V3/app/build/intermediates/pre-dexed/debug/baidumapapi_util_v4_2_1_3f75d6dd40baf4352669476e1c070d9702647f7d.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cgwx.yyfwptz.lixiang.AQBP.MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        app:srcCompat="@drawable/done"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/dpoi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageView"
+        android:layout_alignStart="@+id/imageView"
+        android:layout_alignTop="@+id/imageView"
+        android:layout_marginLeft="41dp"
+        android:text="asdfsdfasdfasdfasdfasdfasdfasdf"
+        android:layout_marginTop="167dp"
+        android:textColor="#5f5f5f"
+        android:textSize="12dp" />
+
+    <TextView
+        android:id="@+id/dadr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="19dp"
+        android:textColor="#5f5f5f"
+        android:textSize="12dp"
+        android:layout_below="@+id/dpoi"
+        android:layout_alignLeft="@+id/dpoi"
+        android:layout_alignStart="@+id/dpoi"
+        android:text="asdfsdfasdfasdfasdfasdfasdfasdf"
+         />
+
+    <TextView
+        android:id="@+id/dd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#5f5f5f"
+        android:textSize="12dp"
+        android:text="asdfsdfasdfasdfasdfasdfasdfasdf"
+        android:layout_below="@+id/dadr"
+        android:layout_alignLeft="@+id/dadr"
+        android:layout_alignStart="@+id/dadr"
+        android:layout_marginTop="18dp"
+        />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:text="已被派给其他警员"
+        android:textColor="#ffffff"
+        android:textSize="14dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/close"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:background="@drawable/close"
+        android:layout_alignTop="@+id/imageView"
+        android:layout_alignRight="@+id/imageView"
+        android:layout_alignEnd="@+id/imageView"
+        android:layout_marginRight="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginTop="11dp" />
+</RelativeLayout>
